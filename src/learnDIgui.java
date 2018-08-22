@@ -53,5 +53,5 @@ public class learnDIgui {
 		}
 		return multiply(num) + sumCount(num - 1);
 	}
-
+// 测试一下
 }
